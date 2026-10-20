@@ -134,6 +134,3 @@ Também são importantes a validação dos dados recebidos, a prevenção de XSS
 **GitHub:** inserir o link do projeto.
 
 ---
-
-**Desenvolvido por:** Vitória Caroline Gouveia de Oliveira  
-**Disciplina:** WEB III
