@@ -1,4 +1,5 @@
 MongoApp 🍃
+
 Aplicação backend desenvolvida em Java com Spring Boot, utilizando MongoDB Atlas como banco de dados NoSQL. O projeto reúne conceitos de desenvolvimento de APIs REST, segurança, validação de dados e persistência de informações.
 🚀 Tecnologias utilizadas
 Java 17
