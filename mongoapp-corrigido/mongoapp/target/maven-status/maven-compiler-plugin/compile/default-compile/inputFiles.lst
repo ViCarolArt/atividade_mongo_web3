@@ -1,0 +1,12 @@
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\config\SecurityConfig.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\controller\UsuarioController.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\dto\PaginaResponse.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\dto\UsuarioRequest.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\dto\UsuarioResponse.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\exception\EmailJaCadastradoException.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\exception\GlobalExceptionHandler.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\exception\UsuarioNaoEncontradoException.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\model\Usuario.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\MongoappApplication.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\repository\UsuarioRepository.java
+C:\Users\flame\OneDrive\Documentos\mongoapp-corrigido\mongoapp\src\main\java\com\example\mongoapp\service\UsuarioService.java
